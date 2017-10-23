@@ -1,0 +1,7 @@
+# Hello World!
+My name is Niklas Rieken from Aachen, Germany. I am a computer science student at RWTH Aachen University. I also work as a programmer 
+at the [chair of operations research](http://or.rwth-aachen.de) for the [GCG project](http://gcg.or.rwth-aachen.de).
+My main interests in school and research are convex optimization, logic and theory of formal languages. For the latter I am currently 
+working on lecture notes which will be available here soon.
+Apart from that I am sports enthusiast, especially football (American and European), baseball and ultimate frisbee. Further interests
+are music (for myself, I play ukulele) and movies.
