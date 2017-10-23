@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Hello World!
 My name is Niklas Rieken from Aachen, Germany. I am a computer science student at RWTH Aachen University. I also work as a programmer 
 at the [chair of operations research](http://or.rwth-aachen.de) for the [GCG project](http://gcg.or.rwth-aachen.de).
