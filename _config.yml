@@ -17,7 +17,7 @@ avatar: https://avatars1.githubusercontent.com/u/7252402?s=460&v=4
 #
 
 #Includes an icon in the footer for each username you enter
-footer-links:
+footer-links: True
 dribbble:
 email: niklas0911@gmail.com
 facebook: niklas.rieken
