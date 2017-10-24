@@ -18,19 +18,19 @@ avatar: https://avatars1.githubusercontent.com/u/7252402?s=460&v=4
 
 #Includes an icon in the footer for each username you enter
 footer-links: 
-	dribbble:
-	email: niklas0911@gmail.com
-	facebook: niklas.rieken
-	flickr:
-	github: phpnick
-	instagram:
-	linkedin:
-	pinterest:
-	rss: # just type anything here for a working RSS icon
-	twitter: ttnick
-	stackoverflow: users/3561284/phpnick
-	youtube: /channel/UCJhytbU-bAX2jr32pDG5jzA
-	googleplus: /u/0/+NiklasRieken
+  dribbble:
+  email: niklas0911@gmail.com
+  facebook: niklas.rieken
+  flickr:
+  github: phpnick
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: ttnick
+  stackoverflow: users/3561284/phpnick
+  youtube: /channel/UCJhytbU-bAX2jr32pDG5jzA
+  googleplus: /u/0/+NiklasRieken
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
