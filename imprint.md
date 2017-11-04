@@ -1,0 +1,17 @@
+---
+layout: default
+---
+# Legal Disclosure
+Information in accordance with section 5 of German TMG.
+
+Niklas Rieken  
+Mauerstraße 2-4  
+Room 28  
+52064 Aachen  
+Germany
+
+## Contact
+Telephone: +49 1523 8736069  
+E-Mail: niklas0911[at]gmail[dot]com
+
+[//]: ## Indication of source for images and graphics
