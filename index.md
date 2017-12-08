@@ -10,3 +10,7 @@ languages. For the latter, I am currently working on lecture notes which will
 be available here soon. Apart from that I am sports enthusiast, especially 
 football (American and European), baseball and ultimate frisbee. Further 
 interests are music (for myself, I play ukulele) and movies.
+
+I am currently exploring GitHub Pages, if you have some interesting tweaks, 
+especially project pages build from GitHub repos, I would be happy to receive 
+a message from you over your prefered channel.
