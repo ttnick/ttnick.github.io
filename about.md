@@ -27,7 +27,7 @@ In my freetime, I am a passionate ultimate frisbee player. My team are the
 sports, in particular football and baseball. It is not only that I like these
 kind of sports for how they are played, with all the tactics and stuff, but 
 also how they are broadcasted. In Germany, we usually avoid a second 
-commentator or getting to involved in statistics, which I find interesting.
+commentator or getting too involved in statistics, which I find interesting.
 I omitted soccer up to here but I absolutely love it. My favorite team is 
 [KFC Uerdingen 05](http://kfc-uerdingen.de), which is playing in Germany's 
 fourth division.
