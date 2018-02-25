@@ -39,4 +39,4 @@ do not like. Also, I play ukulele, mostly for myself some singer-songwriter
 covers in campfire fashion but quite okay, I think. Finally, I probably should
 confess that I watch slightly too much Netflix when I should be studying or
 working.  
-Download my CV [here](/docs/cv_english.pdf).
+You can download my English CV [here](/docs/cv_english.pdf).
