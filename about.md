@@ -38,4 +38,5 @@ much everything I am listening to and spares out the purely electronic stuff I
 do not like. Also, I play ukulele, mostly for myself some singer-songwriter
 covers in campfire fashion but quite okay, I think. Finally, I probably should
 confess that I watch slightly too much Netflix when I should be studying or
-working.
+working.  
+Download my CV [here](/docs/cv_english.pdf).
