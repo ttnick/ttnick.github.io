@@ -30,7 +30,7 @@ also how they are broadcasted. In Germany, we usually avoid a second
 commentator or getting too involved in statistics, which I find interesting.
 I omitted soccer up to here but I absolutely love it. My favorite team is 
 [KFC Uerdingen 05](http://kfc-uerdingen.de), which is playing in Germany's 
-fourth division.
+~~fourth~~ third division.
 Sports are awesome but sometimes everyone just needs some time time to chill.
 For me, listening to music is the most effective way to clean up my mind. If 
 you ask me for my favorite genre, I would say *handmade*, which covers pretty
