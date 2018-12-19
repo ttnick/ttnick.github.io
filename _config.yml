@@ -3,8 +3,8 @@
 #
 
 #Name of your site (displayed in the header)
-name: PHPNick
-title: PHPNick
+name: ttnick
+title: ttnick
 
 #Short bio or description (displayed in the header)
 description: CS student from Aachen
@@ -22,13 +22,13 @@ footer-links:
   email: niklas0911@gmail.com
   facebook: niklas.rieken
   flickr:
-  github: phpnick
+  github: ttnick
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: ttnick
-  stackoverflow: users/3561284/phpnick
+  stackoverflow: users/3561284/ttnick
   youtube: /channel/UCJhytbU-bAX2jr32pDG5jzA
   googleplus: u/0/+NiklasRieken
 

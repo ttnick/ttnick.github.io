@@ -11,16 +11,16 @@ studying computer science at [RWTH Aachen University](http://rwth-aachen.de)
 later that year. I am currently in the last year of my master program.
 
 When I started at university, my main interests in the area of computer science
-were web development, mainly in PHP -- obviously, that is where my screen name 
-came from (and yes I have some sort of regrets for that). However, that changed 
-as theoretical computer science hit me. Especially I became obsessed with 
-automata theory and formal languages. I find it still very pleasent to think of
-regular expressions or bisimulation games. Recently, my focus has shifted 
-towards mathematical optimization. Convex optimization problems and methods are
-quite a big deal to me. This area of computer science and maths have both, 
-interesting applications in e.g. operations research with mixed-integer 
-programs, and also theoretically e.g. in algorithmic game theory (I omitted the
-whole big data and machine learning stuff on purpose here).
+were web development, mainly in PHP -- obviously, that is where my (former) 
+screen name came from (and yes I have some sort of regrets for that). However, 
+that changed as theoretical computer science hit me. Especially I became 
+obsessed with automata theory and formal languages. I find it still very 
+pleasent to think of regular expressions or bisimulation games. Recently, my 
+focus has shifted towards mathematical optimization. Convex optimization 
+problems and methods are quite a big deal to me. This area of computer science 
+and maths have both, interesting applications in e.g. operations research with 
+mixed-integer programs, and also theoretically e.g. in algorithmic game theory 
+(I omitted the whole big data and machine learning stuff on purpose here).
 
 In my freetime, I am a passionate ultimate frisbee player. My team are the
 [Frizzly Bears Aachen](http://www.frizzlybears.de). I also love watching
