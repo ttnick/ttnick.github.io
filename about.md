@@ -11,7 +11,7 @@ studying computer science at [RWTH Aachen University](http://rwth-aachen.de)
 later that year. I am currently in the last year of my master program.
 
 When I started at university, my main interests in the area of computer science
-were web development, mainly in PHP -- obviously, that is where my (former) 
+were web development, mainly in PHP---obviously, that is where my (former) 
 screen name came from (and yes I have some sort of regrets for that). However, 
 that changed as theoretical computer science hit me. Especially I became 
 obsessed with automata theory and formal languages. I find it still very 
