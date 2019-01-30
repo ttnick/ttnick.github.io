@@ -13,9 +13,9 @@ function createDiv(){
     div.innerHTML = '<p><img style="float: left;" src="images/eu.png" />The EU Law says you got some BS right to your data, but it would be fine if I just spam this pointless banner in your face. You\'ll never guess <a href="privacy" rel="nofollow" title="Privacy &amp; Cookies Policy">what it is for</a>.<br /><a class="close-cookie-banner" href="javascript:void(0);" onclick="removeMe();">I do not care</a>. (as you should)</p>';    
     // Be advised the Close Banner 'X' link requires jQuery
      
-    bodytag.appendChild(div); // Adds the Cookie Law Banner just before the closing </body> tag
+    //bodytag.appendChild(div); // Adds the Cookie Law Banner just before the closing </body> tag
     // or
-    //bodytag.insertBefore(div,bodytag.firstChild); // Adds the Cookie Law Banner just after the opening <body> tag
+    bodytag.insertBefore(div,bodytag.firstChild); // Adds the Cookie Law Banner just after the opening <body> tag
      
     document.getElementsByTagName('body')[0].className+=' cookiebanner'; //Adds a class tothe <body> tag when the banner is visible
      
