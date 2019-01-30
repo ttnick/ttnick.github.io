@@ -10,7 +10,7 @@ function createDiv(){
     var bodytag = document.getElementsByTagName('body')[0];
     var div = document.createElement('div');
     div.setAttribute('id','cookie-law');
-    div.innerHTML = '<p><img style="float: left;" src="images/eu.png" />The EU Law says you got some BS right to your data, but it would be fine if I just spam this pointless banner in your face. You\'ll never guess <a href="privacy" rel="nofollow" title="Privacy &amp; Cookies Policy">what it is for</a>.<br /><a class="close-cookie-banner" href="javascript:void(0);" onclick="removeMe();">I do not care</a>. (as you should)</p>';    
+    div.innerHTML = '<p><img style="float: left;" src="http://ttnick.github.io/images/eu.png" />The EU Law says you got some BS right to your data, but it would be fine if I just spam this pointless banner in your face. You\'ll never guess <a href="privacy" rel="nofollow" title="Privacy &amp; Cookies Policy">what it is for</a>.<br /><a class="close-cookie-banner" href="javascript:void(0);" onclick="removeMe();">I do not care</a>. (as you should)</p>';    
     // Be advised the Close Banner 'X' link requires jQuery
      
     //bodytag.appendChild(div); // Adds the Cookie Law Banner just before the closing </body> tag
