@@ -35,8 +35,8 @@ Sports are awesome but sometimes everyone just needs some time time to chill.
 For me, listening to music is the most effective way to clean up my mind. If 
 you ask me for my favorite genre, I would say *handmade*, which covers pretty
 much everything I am listening to and spares out the purely electronic stuff I
-do not like. Also, I play ukulele, mostly for myself some singer-songwriter
-covers in campfire fashion but quite okay, I think. Finally, I probably should
+do not like. Also, I play guitar and ukulele, mostly for myself some singer-songwriter 
+covers in campfire fashion but quite okay. Finally, I probably should
 confess that I watch slightly too much Netflix when I should be studying or
 working.  
 
