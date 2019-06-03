@@ -2,14 +2,16 @@
 layout: default
 ---
 # Hello World
-My name is Niklas Rieken from Aachen, Germany. I am a computer science student
-at RWTH Aachen University. I also work as a programmer at the [chair of operations research](http://www.or.rwth-aachen.de)
-for the [GCG project](http://www.or.rwth-aachen.de/gcg). My main interests in 
-school and research are convex optimization, game theory, logic and theory of formal 
-languages. For the latter, I am currently working on lecture notes which will
-be available here soon. Apart from that I am sports enthusiast, especially 
-football (American and European), baseball and ultimate frisbee. Further 
-interests are music (for myself, I play guitar and ukulele) and movies.
+My name is Niklas Rieken from Aachen, Germany. I am a computer scientist who 
+recently graduated from RWTH Aachen University. My main interests in school 
+and research are convex optimization, game theory, logic and theory of formal 
+languages. For the latter, I am currently working on (German) lecture notes. 
+The current version can be found [here](http://git.rwth-aachen.de/niklas.rieken/tcs_pdfs/FoSAP/Skript).
+In this Git repository you can also find a collection of summaries to various 
+topics from the original lecture at RWTH Aachen. Apart from that I am sports 
+enthusiast, especially football (American and European), baseball, ultimate 
+frisbee, and chess. Further interests are music (for myself, I play guitar and
+ukulele) and movies.
 
 I am currently exploring GitHub Pages, if you have some interesting tweaks, 
 especially project pages build from GitHub repos, I would be happy to receive 

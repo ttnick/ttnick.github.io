@@ -8,7 +8,7 @@ I was born on November 9, 1992 in Krefeld, Germany and raised in a small town
 nearby called St.Tönis. Graduated from [Michael-Ende-Gymnasium](http://michael-ende-gymnasium.de)
 (yes, in Germany a *Gymnasium* is a school) with *Abitur* in 2012 and started
 studying computer science at [RWTH Aachen University](http://rwth-aachen.de) 
-later that year. I am currently in the last year of my master program.
+later that year. I recently graduated with a Master's degree (*MSc*).
 
 When I started at university, my main interests in the area of computer science
 were web development, mainly in PHP---obviously, that is where my (former) 
@@ -35,9 +35,8 @@ Sports are awesome but sometimes everyone just needs some time time to chill.
 For me, listening to music is the most effective way to clean up my mind. If 
 you ask me for my favorite genre, I would say *handmade*, which covers pretty
 much everything I am listening to and spares out the purely electronic stuff I
-do not like. Also, I play guitar and ukulele, mostly for myself some singer-songwriter 
-covers in campfire fashion but quite okay. Finally, I probably should
-confess that I watch slightly too much Netflix when I should be studying or
-working.  
+do not like. Also, I play guitar and ukulele, usually a mix of Folk and Punk. 
+Finally, I probably should confess that I watch slightly too much Netflix when
+I should be studying or working.  
 
 You can download my English CV [here](/docs/cv_english.pdf).
