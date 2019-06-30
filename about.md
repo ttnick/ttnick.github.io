@@ -6,8 +6,8 @@ title: About
 ![This is me](/images/niklas.png){:style="float: left; margin-right: 15px; margin-bottom: 10px;" width="110px"}
 I was born on November 9, 1992 in Krefeld, Germany and raised in a small town 
 nearby called St.Tönis. Graduated from [Michael-Ende-Gymnasium](http://michael-ende-gymnasium.de)
-(yes, in Germany a *Gymnasium* is a school) with *Abitur* in 2012 and started
-studying computer science at [RWTH Aachen University](http://rwth-aachen.de) 
+(yes, in Germany a *Gymnasium* is a school) with *Abitur* (German A-Levels) in
+2012 and started studying computer science at [RWTH Aachen University](http://rwth-aachen.de) 
 later that year. I recently graduated with a Master's degree (*MSc*).
 
 When I started at university, my main interests in the area of computer science
