@@ -11,7 +11,7 @@ Börger Wombats
 Can't Score Won't Score  
 
 ## KBC West
-Uerdingen Hooligans \*
+Uerdingen Hooligans \*  
 Kickersarefirstrounderstoo  
 Aachen Emperors  
 Coppola Köttbullars  
@@ -23,7 +23,7 @@ TuS Isomatte
 Silver Viperz  
 
 ## KBC South
-Pittsburgh Dealers
+Pittsburgh Dealers  
 Reichshof Igels  
 Los Maxos  
 DGW Wolfpack  
