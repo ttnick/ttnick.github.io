@@ -5,7 +5,7 @@ title: Kaut Bowl
 
 # Kraut Bowl Fantasy League
 ## KBC East
-SAM DARN OLD JETS
+SAM DARN OLD JETS  
 JoyOf6  
 Börger Wombats  
 Can't Score Won't Score  
