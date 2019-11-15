@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-![This is me](/images/niklas.png){:style="float: left; margin-right: 15px; margin-bottom: 10px;" width="110px"}
+![This is me](/images/niklas.jpg){:style="float: left; margin-right: 15px; margin-bottom: 10px;" width="110px"}
 I was born on November 9, 1992 in Krefeld, Germany and raised in a small town 
 nearby called St.Tönis. Graduated from [Michael-Ende-Gymnasium](http://michael-ende-gymnasium.de)
 (yes, in Germany a *Gymnasium* is a school) with *Abitur* (German A-Levels) in
