@@ -5,9 +5,8 @@ layout: default
 Information in accordance with section 5 of German TMG.
 
 Niklas Rieken  
-Mauerstraße 2-4  
-Room 28  
-52064 Aachen  
+Komphausbadstraße 25
+52062 Aachen  
 Germany
 
 ## Contact
