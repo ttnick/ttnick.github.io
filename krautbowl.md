@@ -6,12 +6,12 @@ title: Kaut Bowl
 # Kraut Bowl Fantasy League
 ## KBC East
 SAM DARN OLD JETS  
-JoyOf6  
+JoyOf6 \*  
 Börger Wombats  
 Can't Score Won't Score  
 
 ## KBC West
-Uerdingen Hooligans \*  
+Uerdingen Hooligans  
 Kickersarefirstrounderstoo  
 Aachen Emperors  
 Coppola Köttbullars  
