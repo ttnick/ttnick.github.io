@@ -5,7 +5,7 @@ layout: default
 Information in accordance with section 5 of German TMG.
 
 Niklas Rieken  
-Komphausbadstraße 25
+Komphausbadstraße 25  
 52062 Aachen  
 Germany
 

@@ -6,7 +6,7 @@ title: Kaut Bowl
 # Kraut Bowl Fantasy League
 ## KBC East
 SAM DARN OLD JETS  
-JoyOf6 \*  
+JoyOf6   
 Börger Wombats  
 Can't Score Won't Score  
 
@@ -17,10 +17,10 @@ Aachen Emperors
 Coppola Köttbullars  
 
 ## KBC North
-TheBros  
-Neptown Wild Boars  
+TheBros \*   
+Bonner Crows
 TuS Isomatte  
-Silver Viperz  
+Gyros Sloths
 
 ## KBC South
 Pittsburgh Dealers  

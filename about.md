@@ -8,19 +8,18 @@ I was born on November 9, 1992 in Krefeld, Germany and raised in a small town
 nearby called St.Tönis. Graduated from [Michael-Ende-Gymnasium](http://michael-ende-gymnasium.de)
 (yes, in Germany a *Gymnasium* is a school) with *Abitur* (German A-Levels) in
 2012 and started studying computer science at [RWTH Aachen University](http://rwth-aachen.de) 
-later that year. I recently graduated with a Master's degree (*MSc*).
+later that year. I graduated with a Master's degree (*MSc*) and now work as a
+PhD student at the [Chair of Management Science](https://www.oms.rwth-aachen.de).
 
 When I started at university, my main interests in the area of computer science
 were web development, mainly in PHP---obviously, that is where my (former) 
 screen name came from (and yes I have some sort of regrets for that). However, 
 that changed as theoretical computer science hit me. Especially I became 
 obsessed with automata theory and formal languages. I find it still very 
-pleasent to think of regular expressions or bisimulation games. Recently, my 
-focus has shifted towards mathematical optimization. Convex optimization 
-problems and methods are quite a big deal to me. This area of computer science 
-and maths have both, interesting applications in e.g. operations research with 
-mixed-integer programs, and also theoretically e.g. in algorithmic game theory 
-(I omitted the whole big data and machine learning stuff on purpose here).
+pleasent to think of regular expressions or bisimulation games. Over time, my 
+focus has shifted towards combinaorial optimization and game theory. 
+This includes but is not limited to matchings, matroid theory, lattices, 
+complexity, and mechanism design.
 
 In my freetime, I am a passionate ultimate frisbee player. My team are the
 [Frizzly Bears Aachen](http://www.frizzlybears.de). I also love watching
