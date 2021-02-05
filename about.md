@@ -17,7 +17,7 @@ screen name came from (and yes I have some sort of regrets for that). However,
 that changed as theoretical computer science hit me. Especially I became 
 obsessed with automata theory and formal languages. I find it still very 
 pleasent to think of regular expressions or bisimulation games. Over time, my 
-focus has shifted towards combinaorial optimization and game theory. 
+focus has shifted towards combinatorial optimization and game theory. 
 This includes but is not limited to matchings, matroid theory, lattices, 
 complexity, and mechanism design.
 
