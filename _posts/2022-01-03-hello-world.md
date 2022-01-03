@@ -5,8 +5,12 @@ date: 2022-01-03 16:46:00 -0000
 categories: general
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Yes I attempt it again. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+As a project for 2022 (and beyond maybe), inspired by a fellow PhD student [Lukas Graf](https://twitter.com/LukasMathGraf/status/1477989617710342144?s=20), I want to try to keep a sort of diary of things I learned or observed during research and teaching. I might add a few posts in between of things that I always thought of as interesting but first and foremost I plan to have small reports on interesting facts on matroids or insights why
+submodular function minimization is easy.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I think a nice attempt would be to have these posts every weekend but for
+sure I won't keep the pace like that forever. Let's see how it goes!
+
+Cheers!
