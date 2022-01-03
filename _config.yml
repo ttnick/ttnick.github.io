@@ -55,6 +55,7 @@ baseurl: ""
 #
 
 permalink: /:title/
+permalink: /blog/:year/:month/:day/:title
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
@@ -74,7 +75,7 @@ sass:
 style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-plugins:
+plugins_dir:
 - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
