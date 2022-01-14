@@ -16,7 +16,7 @@ One of the easiest example for matroids are undirected graphs, which I will deno
 
 ![An undirected graph](/images/blog/graph.png)
 
-Now the elements of this type of matroid, called *graphic matroid*, are the edges of the graph (that is, by the way, the reason why I always use $E$ for the ground set of matroids). The feasible collections (i.e. subsets) of $E$ are precisely those that do not include a cycle in the graph. As you can see in the figure, there is an edge that has both its ends at the same vertex (a *loop*), hence this edge can never be part of a feasible set as it already forms a cycle all by itself. You also notice that the three edges along the vertices $1, 2, 3, 4$ form a cycle, thus, we can pick at most three of them.
+Now the elements of this type of matroid, called *graphic matroid*, are the edges of the graph (that is, by the way, the reason why I always use $E$ for the ground set of matroids). The feasible collections (i.e. subsets) of $E$ are precisely those that do not include a cycle in the graph. As you can see in the figure, there is an edge that has both its ends at the same vertex (a *loop*), hence this edge can never be part of a feasible set as it already forms a cycle all by itself. You also notice that for example the three edges along the vertices $1, 2, 4, 3$ form a cycle, thus, we can pick at most three of them.
 
 Now it is time to formally define what a matroid is.
 
