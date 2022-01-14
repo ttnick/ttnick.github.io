@@ -14,9 +14,9 @@ Sometimes this kind of question depends simply on the number of elements that I 
 
 One of the easiest example for matroids are undirected graphs, which I will denote by $G = (V, E)$. The set $V$ contains ther vertices of the graph, while $E \subseteq \\{e \subseteq V \mid \|e\| \in \\{1, 2\\}\\}$ contains the edges, i.e. the connections between vertices. A graph can be pictured as in the figure below.
 
-![An undirected graph]()
+![An undirected graph](/images/blog/graph.png)
 
-Now the elements of this types of matroid, called *graphic matroid*, are the edges of the graph (that is, by the way, the reason why I always use $E$ for the ground set of matroids). The feasible collections (i.e. subsets) of $E$ are precisely those that do not include a cycle in the graph. As you can see in the figure, there is an edge that has both its ends at the same vertex (a loop), hence this edge can never be part of a feasible set as it already forms a cycle all by itself. You also notice that the three edges along the vertices $1, 2, 3, 4$ form a cycle, thus, we can pick at most three of them.
+Now the elements of this type of matroid, called *graphic matroid*, are the edges of the graph (that is, by the way, the reason why I always use $E$ for the ground set of matroids). The feasible collections (i.e. subsets) of $E$ are precisely those that do not include a cycle in the graph. As you can see in the figure, there is an edge that has both its ends at the same vertex (a *loop*), hence this edge can never be part of a feasible set as it already forms a cycle all by itself. You also notice that the three edges along the vertices $1, 2, 3, 4$ form a cycle, thus, we can pick at most three of them.
 
 Now it is time to formally define what a matroid is.
 
