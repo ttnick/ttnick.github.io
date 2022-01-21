@@ -7,7 +7,7 @@ categories: matroids
 
 Right off the bat, I will start this blog by starting a series on a gentle introduction to my favorite topic: matroids.
 
-The first time I heard about matroids was actually after I got my Master's degree whe I was still employed as a TA at the Theoretical Computer Science group at RWTH Aachen. A few months later when I joined the Chair of Management Science as PhD student, they somehow became a main part of what I was working on. A matroid is a neat structure defined on a finite ground set $E$. Usually one is interested in a question like 
+The first time I heard about matroids was actually after I got my Master's degree when I was still employed as a TA at the Theoretical Computer Science group at RWTH Aachen. A few months later when I joined the Chair of Management Science as PhD student, they somehow became a main part of what I was working on. A matroid is a neat structure defined on a finite ground set $E$. Usually one is interested in a question like 
 > "Which elements from $E$ can I pick such that my collection is not in some way constricted?" 
 
 Sometimes this kind of question depends simply on the number of elements that I pick, i.e. as long as i do not pick too many elements, my collection is *feasible*. In other cases, the cardinality of my set is less important, but I have that there are not two (or more) elements included that can not go along with each other.
