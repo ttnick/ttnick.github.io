@@ -17,13 +17,13 @@ Aachen Emperors
 Coppola Köttbullars  
 
 ## KBC North
-TheBros \*   
-Bonner Crows
+TheBros  
+Bonner Crows  
 TuS Isomatte  
 Gyros Sloths
 
 ## KBC South
-Pittsburgh Dealers  
+Pittsburgh Dealers *  
 Reichshof Igels  
 Los Maxos  
 DGW Wolfpack  
