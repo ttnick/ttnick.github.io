@@ -4,29 +4,29 @@ title: Kaut Bowl
 ---
 
 # Kraut Bowl Fantasy League
-## KBC East
-The Mormon Savior  
-JoyOf6   
+## Krefeld
 Börger Wombats  
 Can't Score Won't Score  
-
-## KBC West
-Uerdingen Hooligans  
 Kickersarefirstrounderstoo  
-Aachen Emperors  
-Coppola Köttbullars  
+Gyros Sloths  
 
-## KBC North
+## Bad Aachen
+Uerdingen Hooligans  
+Aachen Emperors  
+Aachen Alcoholics  
+Mormon Manziel  
+
+## Köln-Bonn
+Gamehawks24  
 TheBros  
 Bonner Crows  
-TuS Isomatte  
-Gyros Sloths
-
-## KBC South
-Pittsburgh Dealers *  
-Reichshof Igels  
-Los Maxos  
 DGW Wolfpack  
+
+## Rhein-Sieg
+JoyOf6   
+Ruhrpott Igels *  
+Coppola Köttbullars  
+Pittsburgh Dealers  
 
 \* current champion
 
