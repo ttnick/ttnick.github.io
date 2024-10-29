@@ -2,7 +2,7 @@
 layout: default
 ---
 # Legal Disclosure
-Information in accordance with section 5 of German TMG.
+Information in accordance with Section 5 of German TMG.
 
 Niklas Rieken  
 Komphausbadstraße 25  
