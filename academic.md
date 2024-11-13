@@ -75,4 +75,5 @@ I supervised the following bachelor and master theses at RWTH Aachen University:
 * *The Player Selection Process in American Pro Sports under Matroid Constraints and Fairness Considerations* (Bachelor Business Administration, 2022)
 * *The Impact of Traffic Lights in Nash Flows Over Time* (Master Computer Science, 2022, with Laura Vargas Koch)
 * *Resource Graph Games on Polymatroids* (Bachelor Computer Science, 2021)
+* *Trading with intermediaries under a mechanism design point of view* (Master Data Analytics and Decision Science, 2020)
 * *A Controlled Auction Market for Crossover Kidney Exchange* (Bachelor Business Administration, 2020)
