@@ -41,7 +41,7 @@ Britta Peis and Niklas Rieken
 [**A Simplified Analysis of the Ascending Auction to Sell a Matroid Base**](https://arxiv.org/abs/2404.12121)
 
 Katharina Eickhoff, Meike Neuwohner, Britta Peis, Niklas Rieken, Laura Vargas Koch, and László A. Végh  
-[**Faster Dynamic Auctions via Polymatroid Sum**](Faster Ascending Auctions via Polymatroid Sum)
+[**Faster Dynamic Auctions via Polymatroid Sum**](https://arxiv.org/abs/2310.08454)
 
 Katharina Eickhoff, S. Thomas McCormick, Britta Peis, Niklas Rieken, and Laura Vargas Koch  
 [**A flow-based ascending auction to compute buyer-optimal Walrasian prices**](https://arxiv.org/abs/2304.14262)
