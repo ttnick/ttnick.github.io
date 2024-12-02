@@ -48,7 +48,7 @@ Katharina Eickhoff, S. Thomas McCormick, Britta Peis, Niklas Rieken, and Laura V
 
 
 ## Teaching
-I am the recipient of the 2024 teaching award of the School of Business and Economics at RWTH Aachen University.
+I am the recipient of the [2024 teaching award](https://www.wiwi.rwth-aachen.de/go/id/bkqgqu?lidx=1#aaaaaaaaabkqguw) of the School of Business and Economics at RWTH Aachen University.
 
 For the following courses at RWTH Aachen University I had various responsibilities (creating exercise sheets, conducting exercise sessions, write lecture notes, etc.).
 The lectures were all at the Chair of Management Science headed by Britta Peis who was the main lecturer in all of those courses.
