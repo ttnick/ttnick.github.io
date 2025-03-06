@@ -68,6 +68,7 @@ As a student at RWTH Aachen University, I also was a TA in the following courses
 
 ## Theses
 I supervised the following bachelor and master theses at RWTH Aachen University:
+* *Auction Design for the Suppression of Shill Bids* (Bachelor Business Administration, 2025)
 * *Tailoring a Matroid-Constrained Ascending Vickrey Auction to Representable Matroids* (Bachelor Computer Science, 2024)
 * *Minimizing Player Regret in Routing Games through Robust Network Optimization* (Bachelor Business Admininstration, 2024)
 * *Implementation and Analysis of an Ascending Vickrey Auction for Selling Bases of a Matroid* (Master Data Analytics and Decision Science, 2023)
