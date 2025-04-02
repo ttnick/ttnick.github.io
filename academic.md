@@ -4,6 +4,9 @@ title: Academic
 ---
 
 ## Publications
+Katharina Eickhoff, Meike Neuwohner, Britta Peis, Niklas Rieken, Laura Vargas Koch, and László A. Végh  
+[**Faster Ascending Auctions via Polymatroid Sum**]() (TEAC 2025)
+
 Katharina Eickhoff, S. Thomas McCormick, Britta Peis, Niklas Rieken, and Laura Vargas Koch  
 [**A flow-based ascending auction to compute buyer-optimal Walrasian prices**](http://doi.org/10.1002/net.22218) (Networks 2024)
 
@@ -55,9 +58,9 @@ The lectures were all at the Chair of Management Science headed by Britta Peis w
 * *Algorithmic Game Theory (for Economics)* with Komal Muluk, Summer 2024
 * *Strategic Decisions in Networks, Markets, and Politics* with Komal Muluk, Winter 2023/24
 * *Algorithmic Game Theory (for Computer Science)* with Lennart Kauther, Summer 2023
-* *Einführung in Design und Analyse von Algorithmen*, Summer 2022
+* *Einführung in Design und Analyse von Algorithmen*, Summer 2025, Summer 2022
 * *Scheduling*, Summer 2020
-* *Einführung in Management Science*, Winter 2019/20, Winter 2020/21, Winter 2021/22
+* *Einführung in Management Science*, Winter 2021/22, Winter 2020/21, Winter 2019/20
 * *Highlights in Optimization* (seminar), every term between Winter 2019/20 and Summer 2024
 
 As a student at RWTH Aachen University, I also was a TA in the following courses given by the Chair of Logic and Theory of Discrete Systems headed by Martin Grohe and the Theoretical Computer Science group headed by Peter Rossmanith:
