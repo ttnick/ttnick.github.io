@@ -5,7 +5,7 @@ title: Academic
 
 ## Publications
 Katharina Eickhoff, Meike Neuwohner, Britta Peis, Niklas Rieken, Laura Vargas Koch, and László A. Végh  
-[**Faster Dynamic Auctions via Polymatroid Sum**]() (TEAC 2025)
+[**Faster Dynamic Auctions via Polymatroid Sum**](https://dl.acm.org/doi/10.1145/3729429) (TEAC 2025)
 
 Katharina Eickhoff, S. Thomas McCormick, Britta Peis, Niklas Rieken, and Laura Vargas Koch  
 [**A flow-based ascending auction to compute buyer-optimal Walrasian prices**](http://doi.org/10.1002/net.22218) (Networks 2024)
