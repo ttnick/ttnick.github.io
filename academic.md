@@ -18,6 +18,10 @@ Britta Peis, Niklas Rieken, José Verschae, and Andreas Wierz
 
 
 ## Talks
+May 27, 2025  
+**Combinatorial Optimization in Auction Design**  
+Seminar on Microeconomics, RWTH Aachen University
+
 November 28, 2023  
 **Selling Bases of a Matroid**  
 ORM PhD Seminar, RWTH Aachen University
