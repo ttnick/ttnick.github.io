@@ -4,6 +4,9 @@ title: Academic
 ---
 
 ## Publications
+Ike Kunze, Constantin Sander, Alexander Ruhrmann, Niklas Rieken und Klaus Wehrle
+[**Using Explicit (Host-to-Network) Flow Measurements for Network Tomography**]() (ANRW 2025)
+
 Katharina Eickhoff, Meike Neuwohner, Britta Peis, Niklas Rieken, Laura Vargas Koch, and László A. Végh  
 [**Faster Dynamic Auctions via Polymatroid Sum**](https://dl.acm.org/doi/10.1145/3729429) (TEAC 2025)
 
@@ -76,7 +79,7 @@ As a student at RWTH Aachen University, I also was a TA in the following courses
 ## Theses
 I supervised the following bachelor and master theses at RWTH Aachen University:
 * *Auction Design for the Suppression of Shill Bids* (Bachelor Business Administration, 2025)
-* *Tailoring a Matroid-Constrained Ascending Vickrey Auction to Representable Matroids* (Bachelor Computer Science, 2024)
+* [*Tailoring a Matroid-Constrained Ascending Vickrey Auction to Representable Matroids*](https://doi.org/10.18154/RWTH-2025-04826) (Bachelor Computer Science, 2024, **won Schöneborn Award**)
 * *Minimizing Player Regret in Routing Games through Robust Network Optimization* (Bachelor Business Admininstration, 2024)
 * *Implementation and Analysis of an Ascending Vickrey Auction for Selling Bases of a Matroid* (Master Data Analytics and Decision Science, 2023)
 * *Computation of minimal market clearing prices in multi-unit auctions* (Master Business Administration, 2023)
