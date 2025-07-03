@@ -4,8 +4,8 @@ title: Academic
 ---
 
 ## Publications
-Ike Kunze, Constantin Sander, Alexander Ruhrmann, Niklas Rieken und Klaus Wehrle  
-[**Using Explicit (Host-to-Network) Flow Measurements for Network Tomography**]() (ANRW 2025)
+Ike Kunze, Constantin Sander, Alexander Ruhrmann, Niklas Rieken, and Klaus Wehrle  
+[**Using Explicit (Host-to-Network) Flow Measurements for Network Tomography**](https://www.comsys.rwth-aachen.de/publication/2025/2025_kunze_efm-network-tomography/2025_kunze_efm-network-tomography.pdf) (ANRW 2025)
 
 Katharina Eickhoff, Meike Neuwohner, Britta Peis, Niklas Rieken, Laura Vargas Koch, and László A. Végh  
 [**Faster Dynamic Auctions via Polymatroid Sum**](https://dl.acm.org/doi/10.1145/3729429) (TEAC 2025)
@@ -21,6 +21,10 @@ Britta Peis, Niklas Rieken, José Verschae, and Andreas Wierz
 
 
 ## Talks
+July 3, 2025  
+**A Self-Reflecting Greedy Algorithm for Submodular Cover**  
+10th Gerhard Woeginger Research Colloquium, RWTH Aachen University
+
 May 27, 2025  
 **Combinatorial Optimization in Auction Design**  
 Seminar on Microeconomics, RWTH Aachen University
