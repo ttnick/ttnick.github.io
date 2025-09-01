@@ -12,5 +12,5 @@ However, as a computer science graduate, I also like formal language theory, log
 Apart from that I am sports enthusiast, especially football (American and European), baseball, ultimate frisbee, table tennis, and chess.
 In my free time, I am a enthusiast for music (listening and playing, I play guitar and ukulele) and watching movies.
 
-I am [#opentowork](https://www.linkedin.com/in/niklas-rieken-235890373/).
+I am [#opentowork](https://www.linkedin.com/in/niklas-rieken/).
 If you are interested in a person that solves mathematical optimization problems for you, I would be glad to hear from you over your preferred channel.
