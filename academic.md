@@ -4,6 +4,9 @@ title: Academic
 ---
 
 ## Publications
+[//]:Niklas Rieken  
+[//]:[**Matroid Optimization in Auction Theory**]() (PhD Thesis 2025)
+
 Ike Kunze, Constantin Sander, Alexander Ruhrmann, Niklas Rieken, and Klaus Wehrle  
 [**Using Explicit (Host-to-Network) Flow Measurements for Network Tomography**](https://www.comsys.rwth-aachen.de/publication/2025/2025_kunze_efm-network-tomography/2025_kunze_efm-network-tomography.pdf) (ANRW 2025)
 
@@ -17,7 +20,7 @@ Katharina Eickhoff, Britta Peis, Niklas Rieken, Laura Vargas Koch, and László 
 [**Faster Ascending Auctions via Polymatroid Sum**](https://link.springer.com/book/10.1007/978-3-031-48974-7) (WINE 2023)
 
 Britta Peis, Niklas Rieken, José Verschae, and Andreas Wierz  
-[**A Primal-Dual and Primal-Greedy Approximation Framework for Weighted Covering Problems**](https://mapsp2022.polito.it/Proceedings.pdf) (MAPSP 2022)
+[**A Primal-Dual and Primal-Greedy Approximation Framework for Weighted Covering Problems**](https://iris.unito.it/retrieve/ffc2eeb3-fc9b-4096-ba09-0054f19a56a0/Proceedings.pdf#page=77) (MAPSP 2022)
 
 
 ## Talks
