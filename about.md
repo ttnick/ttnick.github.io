@@ -7,6 +7,7 @@ title: About
 I was born on November 9, 1992 in Krefeld, Germany and raised in a small town nearby called St.Tönis.
 Graduated from [Michael-Ende-Gymnasium](http://michael-ende-gymnasium.de) (yes, in Germany a *Gymnasium* is a school) with *Abitur* (German A-Levels) in 2012 and started studying computer science at [RWTH Aachen University](http://rwth-aachen.de) later that year.
 I graduated with a Master's degree (*MSc*) and was a PhD student at the [Chair of Management Science](https://www.oms.rwth-aachen.de) until August 2025.
+Recently, I relocated to Dortmund and I am looking for a job in mathematical optimization.
 I will defend my PhD thesis, which I submitted in July 2025, this November.
 
 When I started at university, my main interests in the area of computer science were web development, mainly in PHP---obviously, that is where my (former) screen name came from (and yes I have some sort of regrets for that). 
