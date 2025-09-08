@@ -5,8 +5,8 @@ layout: default
 Information in accordance with Section 5 of German TMG.
 
 Niklas Rieken  
-Komphausbadstraße 25  
-52062 Aachen  
+Geschwister-Scholl-Straße 26  
+44135 Dortmund  
 Germany
 
 ## Contact
