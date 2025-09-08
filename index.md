@@ -10,7 +10,7 @@ My main interests in school and research are combinatorial optimization, in part
 However, as a computer science graduate, I also like formal language theory, logic, and automata theory.
 
 Apart from that I am sports enthusiast, especially football (American and European), baseball, ultimate frisbee, table tennis, and chess.
-In my free time, I am a enthusiast for music (listening and playing, I play guitar and ukulele) and watching movies.
+I also enjoy listening to and playing (guitar and ukulele) music and watching movies.
 
 I am [#opentowork](https://www.linkedin.com/in/niklas-rieken/).
 If you are interested in a person that solves mathematical optimization problems for you, I would be glad to hear from you over your preferred channel.
