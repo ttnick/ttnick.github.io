@@ -7,6 +7,9 @@ title: Academic
 [//]:Niklas Rieken  
 [//]:[**Matroid Optimization in Auction Theory**]() (PhD Thesis 2025)
 
+Britta Peis and Niklas Rieken  
+[**A Simplified Analysis of the Ascending Auction to Sell a Matroid base**](https://doi.org/10.1016/j.orl.2025.107381) (OR Letters 2025)  
+
 Ike Kunze, Constantin Sander, Alexander Ruhrmann, Niklas Rieken, and Klaus Wehrle  
 [**Using Explicit (Host-to-Network) Flow Measurements for Network Tomography**](https://www.comsys.rwth-aachen.de/publication/2025/2025_kunze_efm-network-tomography/2025_kunze_efm-network-tomography.pdf) (ANRW 2025)
 
