@@ -4,8 +4,8 @@ title: Academic
 ---
 
 ## Publications
-[//]:Niklas Rieken  
-[//]:[**Matroid Optimization in Auction Theory**]() (PhD Thesis 2025)
+Niklas Rieken  
+[**Matroid Optimization in Auction Theory**](https://publications.rwth-aachen.de/record/1023729) (PhD Thesis 2025)
 
 Britta Peis and Niklas Rieken  
 [**A Simplified Analysis of the Ascending Auction to Sell a Matroid base**](https://doi.org/10.1016/j.orl.2025.107381) (OR Letters 2025)  
