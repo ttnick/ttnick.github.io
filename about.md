@@ -31,4 +31,4 @@ Also, I play guitar and ukulele, usually a mix of Folk and Punk.
 Finally, I probably should confess that I watch slightly too much Netflix when I should be studying or working.  
 
 These days I maintain an [academic CV](docs/cv_academic_en.pdf) and an [industry CV](docs/cv_industry_en.pdf).
-The latter one is also also available [in German](doc/cv_industry_de.pdf).
+The latter one is also also available [in German](docs/cv_industry_de.pdf).
