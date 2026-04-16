@@ -11,12 +11,11 @@
 
 	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
 	<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-	<script type="text/x-mathjax-config">
-		MathJax.Hub.Config({
-			tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]},
-			TeX: {equationNumbers: {autoNumber: "all", formatNumber: function(n) {return "FFSP."+n}}}
-		});
+	<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js">
+		window.MathJax = {
+			loader: {load: ['[tex]/ams']},
+			tex: {packages: {'[+]': ['ams']}}
+		};
 	</script>
 	<script type="text/javascript" src="{{ site.baseurl }}/goFEUrself.js"></script>
 </head>
