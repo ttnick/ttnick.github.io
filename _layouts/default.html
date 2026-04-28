@@ -9,14 +9,40 @@
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/styles/default.min.css">
 	<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
 	<link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-	<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js">
-		window.MathJax = {
-			loader: {load: ['[tex]/ams']},
-			tex: {packages: {'[+]': ['ams']}}
+	<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+	<script>
+		MathJax = {
+			loader: {load: ['[tex]/mathtools']},
+			tex: {
+				packages: {'[+]': ['mathtools']},
+				inlineMath: {'[+]': [['$', '$']]},
+				macros: {
+					R: "\\mathbb{R}",
+					Q: "\\mathbb{Q}",
+					Z: "\\mathbb{Z}",
+					N: "\\mathbb{N}",
+					I: "\\mathcal{I}",
+					B: "\\mathcal{B}",
+					C: "\\mathcal{C}",
+					F: "\\mathcal{F}",
+					mspan: "\\mathop{\\mathrm{span}}",
+					mrank: "\\rho",
+					emptyset: "\\varnothing"
+				}
+			},
+			svg: {
+				fontCache: 'global'
+			},
+			options: {
+				skipHtmlTags: {'[-]': ['code', 'pre']}
+			}
 		};
 	</script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.11.1/highlight.min.js"></script>
+	<!--<script>hljs.highlightAll();</script>-->
 	<script type="text/javascript" src="{{ site.baseurl }}/goFEUrself.js"></script>
 </head>
 
