@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
+published: false
 ---
 
 I do not collect any data at all.
