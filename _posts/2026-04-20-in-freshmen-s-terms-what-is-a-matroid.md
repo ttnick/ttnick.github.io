@@ -2,7 +2,7 @@
 layout: post
 title: "In Freshmen's Terms, What is a Matroid? (I)"
 tagline: "The Basics"
-date: 2026-03-20 13:00:00 -0000
+date: 2026-05-20 13:00:00 -0000
 categories: matroids
 ---
 

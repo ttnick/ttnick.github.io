@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Master Theorem"
-date: 2026-05-05 13:00:00 -0000
+date: 2026-06-01 13:00:00 -0000
 categories: algorithms
 ---
 
