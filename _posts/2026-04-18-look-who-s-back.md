@@ -21,7 +21,7 @@ On a third hand (or let's say on one foot), I also had some other serious though
 Finally, on the other foot, I have been working on some personal software projects of mine that I started while looking for a new job after the PhD.
 It seems just that software companies are skeptical about hiring new people right now with economically tense times but also a strong urge to embrace AI as a potentially permanent substitute for junior positions.
 So the blog will also serve the purpose of documenting my journey of writing my own software (in `vim` BTW).
-This bread-and-butter trait of a computer scientist is something that I did less that I expected during my academic career, even though I always enjoyed automating things here and there for my daily work.
+This bread-and-butter trait of a computer scientist is something that I did less than I expected during my academic career, even though I always enjoyed automating things here and there for my daily work.
 
 Brace yourself!
 Content is coming!
