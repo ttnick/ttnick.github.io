@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing `jobscanner`"
+title: "Introducing jobscanner"
 date: 2026-05-19 13:00:00 -0000
 categories: software
 ---
