@@ -8,7 +8,7 @@ I was born on November 9, 1992 in Krefeld, Germany and raised in a small town ne
 Graduated from [Michael-Ende-Gymnasium](http://michael-ende-gymnasium.de) (yes, in Germany a *Gymnasium* is a school) with *Abitur* (German A-Levels) in 2012 and started studying computer science at [RWTH Aachen University](http://rwth-aachen.de) later that year.
 I obtained my Master's degree (*MSc*) and was a PhD student at the [Chair of Management Science](https://www.oms.rwth-aachen.de) until August 2025.
 I defended my PhD thesis *Matroid Optimization in Auction Theory* in November 2025 and received the best possible grade *summa cum laude*.
-Recently, I relocated to Dortmund and I am looking for a job in mathematical optimization.
+Nowadays I live in Dortmund.
 
 When I started at university, my main interests in the area of computer science were web development, mainly in PHP.
 However, that changed as theoretical computer science hit me.

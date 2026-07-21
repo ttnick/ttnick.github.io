@@ -32,8 +32,8 @@ Now it is time to formally define what a matroid is.
 
 **Definition.** A pair \\(M = (E, \mathcal{I})\\) on a finite ground set \\(E\\) and \\(\mathcal{I} \subseteq 2^E\\) is a *matroid* if the following three properties hold
  * (I1) \\(\varnothing \in \mathcal{I}\\),
- * (I2) if \\(I \subseteq I'\\) and \\(I' \in \mathcal{I}\\), then \\(I \in \mathcal{I}\\), and
- * (I3) if \\(I, I' \in \mathcal{I}\\) and \\(\|I\| < \|I'\|\\), then there exists an \\(e \in I' \setminus I\\) such that \\(I + e \in \mathcal{I}\\).
+ * (I2) if \\(I_1 \subseteq I_2\\) and \\(I_2 \in \mathcal{I}\\), then \\(I_1 \in \mathcal{I}\\), and
+ * (I3) if \\(I_1, I_2 \in \mathcal{I}\\) and \\(\|I_1\| < \|I_2\|\\), then there exists an \\(e \in I_2 \setminus I_1\\) such that \\(I_1 + e \in \mathcal{I}\\).
 
 This set of rules are called the *independence axioms* for matroids.
 The set \\(\mathcal{I}\\) that has to satisfy these axioms contains all the sets that we call *independent* (previously I refered to them as feasible sets which is in practice often what those sets represent in e.g. optimization problems).
