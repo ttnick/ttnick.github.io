@@ -2,7 +2,7 @@
 layout: post
 title: "In Freshmen's Terms, What is a Matroid? (II)"
 tagline: "Ranks, Spans, Flats and all that"
-date: 2026-08-20 13:00:00 -0000
+date: 2026-08-30 13:00:00 -0000
 categories: matroids
 ---
 
